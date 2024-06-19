@@ -46,14 +46,7 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
 - Google-Sign In
 - Firebase
 
-## Instructions
-1. Import the project through Android Studio or clone it
-   - `https://github.com/lokesh000489/Boolian-app`
-2. Change my google-services.json with your google-services.json
-    - `../BoolianApp/app/google-services.json`
-3. Add Google OAuth 2.0 client ID in strings.xml
-4. Connect your device or emulator and run the app
-5. The app is now running
+
 
 
 ## Need Help?
