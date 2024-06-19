@@ -59,6 +59,4 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
 
 
 ## Need Help?
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kanahia-kaushal-9850bb253/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kanahia.jpeg/) 
+Feel free to contact me on [LinkedIn]([https://www.linkedin.com/in/kanahia-kaushal-9850bb253/](https://www.linkedin.com/in/lokesh-singla-b993ba259/))
