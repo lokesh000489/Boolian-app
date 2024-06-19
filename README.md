@@ -19,7 +19,7 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
    - Displays the structure of course
    - Displays the title of course
   
- ![Frame 5](www.linkedin.com/in/lokesh-singla-b993ba259)
+ ![Frame 5]([www.linkedin.com/in/lokesh-singla-b993ba259](https://www.linkedin.com/in/lokesh-singla-b993ba259/))
 
 5. Video Page
    - Contains video fetched from Youtube
